@@ -6,4 +6,5 @@ A Flutter project for my subject MIS.
 
 [ Watch demo video](media/Lab01.mp4)
 
+![App demo](media/Lab01.gif)
 
